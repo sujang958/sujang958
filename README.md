@@ -4,7 +4,5 @@
 [![sujang958's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujang958&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujang958)
 
 Todos
-- [ ] Buy sujang.xyz domain in Cloudflare
-- [ ] Make iOS16 widget
-- [ ] Learn Swift
+- [x] Buy sujang.xyz domain in Cloudflare
 
