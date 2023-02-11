@@ -6,4 +6,4 @@
 ## Hello Stranger!
 
 I'm Songhun Cho, a developer based in Korea.  
-I'm passionate in making websites with better UI & UX.
+I like create websites with beautiful design.
