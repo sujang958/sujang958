@@ -2,6 +2,7 @@
 
 I'm Hun, a developer based in Korea.  
 I'm intersted in Front-end development and Back-end development.
+I like to create websites with beautiful designs and UX.
 
 ## Stats
 
