@@ -4,7 +4,7 @@ I'm Hun, a developer based in Korea. I'm intersted in Front-end development and 
 
 ### Interests
 - UI/UX Designs
-- Web Hacking, Reversing & Pwn
+- Web Hacking, Reversing & Pwn (I almost quit)
 - Translating docouments
 - Music
 
